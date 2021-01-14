@@ -1,0 +1,71 @@
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --set show_channel_urls yes
+
+
+conda install pytorch cudatoolkit=11.0 
+
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+
+torch.cuda.is_available()
+
+torch.cuda.device_count()
+
+
+
+find /home/gylv -name 文件
+
+rm -rf 文件
+
+cp -r 文件 目标位置
+
+vim ~/.bashrc 配置环境变量
+
+
+des[i] = f.relu(avector + ravector)
+
+des[i] = torch.cat((avector, ravector), -1)  
+# 按行拼接-1，按列拼接是0,按列成2维，再压缩成一维一样
+
+index = input_ids.index(102)
+sepIndex.append([index, input_ids.index(102, index+1)])#添加第一个sep和第二个sep的位置
+
+CUDA_VISIBLE_DEVICES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
