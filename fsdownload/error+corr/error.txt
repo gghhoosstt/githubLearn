@@ -1,0 +1,104 @@
+第9条: Topaz would be the hardest of the 4 minerals because none of the tools could scratch topaz and at least one tool could scratch each of the other minerals.****Topaz is most like mineral Z because Topaz cannot be scratched by anything and mineral Z can only be scratched by one thing.||correct
+第12条: Topaz would be the hardest of the 4 minerals because none of the tools could scratch topaz and at least one tool could scratch each of the other minerals.****Topaz would be the hardest because none of the tools could scratch X, Y, Z.||incorrect
+第19条: The harder mineral will leave a scratch on the less hard mineral. If the black mineral is harder, the brown mineral will have a scratch.****Which one leaves a scratch.||incorrect
+第24条: Put acid on a rock. If the acid fizzes, Phil would know that the rock has calcite.****If it fizzles it has calcite.||incorrect
+第25条: The crystals have different shapes. Salt crystals are square with little Xs. The calcite crystals are shaped like needles (long and skinny).****Calcite crystals are flaky and salt crystals were not flaky. They are square instead.||incorrect
+第37条: Many tiny bubbles will rise from the calcite when the calcite contacts the cold acid.****If you see bubbles coming from the rock it contains calcite.||correct
+第38条: Many tiny bubbles will rise from the calcite when the calcite contacts the cold acid.****You would observe if the rock or mineral bubbles when you put it in the vinegar.||correct
+第43条: The harder coin will scratch the other.****If she can scratch a penny with her fingernail the nickel is harder.||incorrect
+第44条: The harder coin will scratch the other.****A nickel is harder than a penny and a penny is lighter at water.||incorrect
+第51条: Measure out equal masses of walnuts and peanuts. Smash the samples uniformly in the same size area on brown paper. Wait the same time for each sample.****First weigh the walnuts and peanuts to one gram amount. Then, spread the one gram walnuts and peanuts on the same brown paper. Then wait 2 days.||correct
+第52条: Measure out equal masses of walnuts and peanuts. Smash the samples uniformly in the same size area on brown paper. Wait the same time for each sample.****First you have to have these materials, 2 brown paper indicators, weigh machine, 2 cups, one gram block, spoon and stick. You put 2 cup on each side of the weigh machine with brown paper on each of the cups. Then you smear the food sample on the brown indicator then wait for 2 day.||correct
+第57条: Susan should compare the amount of gas in each bag. The bag with the most gas contains the food with the most sugar.****Susan will know which food contains the most sugar by comparing the amount of carbon dioxide each food sample has.||incorrect
+第59条: Susan should compare the amount of gas in each bag. The bag with the most gas contains the food with the most sugar.****She will know by measuring it also whichever has more bubbles.||correct
+第62条: No, Fruity cream cookies are not pure sugar. The cookies did not produce as much gas as was produced by the pure sugar.****No, because the Fruity Cream cookies is at 150 milliliters.||incorrect
+第75条: If gas (carbon dioxide) is produced, the food contains acid. If no gas is produced, the food does not contain acid.****Well if it has a lot of volume it has sugar and if the syringe goes all the way up it has acid.||correct
+第91条: Fabric A is smoother and has a finer texture. Fabric B is rougher and has a coarser texture.****B looks like it is bumpy and A looks like is smooth.||correct
+第96条: The loops begin at opposite sides of the print.****They are going different directions.||incorrect
+第99条: Compare prints to see if the patterns are the same.****Because they may be arches, whorl and loop.||incorrect
+第100条: Compare prints to see if the patterns are the same.****The figure, texture, shape, and how it looks.||incorrect
+第107条: The mirror would complete the image of the object and make the object appear whole.****Half of the flat object.||incorrect
+第118条: The clay particles are lighter or smaller and are therefore carried farther by the water, so the clay particles end up the greatest distance away from the mouth of the river.****The clay is deposited in the lake because it is lightest and is like a basin.||correct
+第123条: Water will always flow downhill (mountain to valley).****Because somewhere in that mountain there is a water source and the water flows down the mountain.||correct
+第124条: Water will always flow downhill (mountain to valley).****I believe it flows in that direction because the earth water comes out of cracks in mountain a flow down the mountain and into river.||correct
+第126条: During a flood there is more water in the creek and the water flows faster.****The water flows a lot faster.||correct
+第133条: She recommended the topographic map because the map shows the elevations along the trail. Pam would know where the trail was the steepest.****It tells you the elevation so you hike the easiest way.||correct
+第137条: The contour lines are closest together at Q.****I know because the contour lines are smaller.||correct
+第138条: The contour lines are closest together at Q.****I Think this because for Q the mountains steepness 5000 and Q is very close.||incorrect
+第142条: Earth materials settle out during deposition.****Earth materials are moved by water to another spot in the stream.||correct
+第143条: Earth materials settle out during deposition.****During deposition earth materials are picked up and dropped on farther downstream near the mouth.||correct
+第156条: If the effort is applied farther from the fulcrum, less effort will lift the load.****If the effort is closer to the fulcrum then it is easier but if the effort is farther from the fulcrum then it is harder.||incorrect
+第166条: Like poles repel and opposite poles attract.****They are not touching each other because the same poles are facing towards each other making them repel.||incorrect
+第176条: The brass ring would not stick to the nail because the ring is not iron. The nail is a temporary magnet, but brass cannot become a temporary magnet and thus does not stick to magnets.****Probably not it depends on how heavy it is and if it is made of iron.||incorrect
+第177条: No, string is an insulator, so the pathway would not be completed.****The string does not have iron in it to make it work.||incorrect
+第181条: Yes, aluminum foil is a metal and all metals conduct. The aluminum foil would complete the circuit.****Yes because it is aluminum.||incorrect
+第190条: That circuit is the only circuit that uses all of the correct contact points.****It is because the wire is touching the right part of the bulb. The electricity is flowing.||correct
+第191条: That circuit is the only circuit that uses all of the correct contact points.****The only circuit that will work is A.||incorrect
+第192条: That circuit is the only circuit that uses all of the correct contact points.****The wire is on the D-cell are on the light bulb.||correct
+第195条: Lee should put one of the loose wires on one part of the object and the other loose wire on another part of the object and see if the object completes the circuit.****He can put the bends of the wire on the material.||correct
+第216条: There is a complete circuit connecting the motor to the D-cell battery.****Because if you already had a series circuit then it has to be a parallel circuit.||correct
+第221条: The circuit does not include both contact points on the bulb holder, so the electricity can not go through the bulb.****Because the hook needs the wire to move so one is on each side.||correct
+第238条: If the middle bulb burns out the other 2 bulbs will stay lit.****The others will not work.||incorrect
+第239条: If the middle bulb burns out the other 2 bulbs will stay lit.****The other bulbs will burn out too.||incorrect
+第258条: The marbles used by the 2 groups were probably different masses.****I think you put 34 marbles to put the same sizes.||incorrect
+第265条: So people know exactly what the measurement means. A standard is necessary so everyone measures using the same unit and everyone gets the same measurement.****Because you could not make measurement without a standard unit.||incorrect
+第266条: So people know exactly what the measurement means. A standard is necessary so everyone measures using the same unit and everyone gets the same measurement.****If you have a standard measurement you can get the correct answer and you do not have the wrong answer.||incorrect
+第267条: So people know exactly what the measurement means. A standard is necessary so everyone measures using the same unit and everyone gets the same measurement.****We use a standard unit so we do not get the measurement wrong.||incorrect
+第276条: There is 30 grams (20 grams plus 10 grams) in the right cup. The balance is tipped down on the ball side which means the ball weighs more than 30 grams. 40 grams is the only weight heavier than 30 grams.****Because it is not 30 because they already show you so it must be 40.||correct
+第281条: The dissolved salt particles are small enough to go through the holes in the filter paper, but the sand particles are too large.****I think it is because the salt was small enough and the sand was too big for it. The salt had gone away dissolved. Sand particles was too big.||incorrect
+第282条: The dissolved salt particles are small enough to go through the holes in the filter paper, but the sand particles are too large.****Because the salt fit through the holes in the filter.||correct
+第283条: The dissolved salt particles are small enough to go through the holes in the filter paper, but the sand particles are too large.****The salt is a smaller grain. The sand is more chunky and thicker so it not easy for it to go through.||incorrect
+第290条: The solid dissolves (seems to disappear) and the liquid remains clear.****You can not see the solid no more because it is going and you cannot see the solution.||incorrect
+第292条: The solid dissolves (seems to disappear) and the liquid remains clear.****When the solid dissolves into the liquid.||incorrect
+第296条: Emily's crystals are the same shape as the alum crystals shown on the key.****Because below the alum picture looks just like the one above.||correct
+第303条: Yes. If both solutions are saturated (and at the same temperature), the solutions will both have the same concentration. Once a solution is saturated, the solution cannot get any more concentrated.****Yes, because if the same amount of solute and make a saturated solution the concentration would be the same if the solutions had the same volume.||incorrect
+第306条: The solutions have the same concentration (2 spoons in 50 milliliters is the same as 4 spoons in 100 milliliters) so the mass would also be the same.****There is 2 times as much of the same solution in B as in A therefore equal volumes would weigh the same.||correct
+第316条: Bubbling means a gas has formed. Gas is a new material. A new material indicates a reaction.****Because once the 2 chemicals mixed the solution started to react by fizzing bubble.||correct
+第318条: A chemical reaction occurred. [The white solid is a precipitate (a new material) which indicates the reaction.]****It is a reaction.||correct
+第321条: The fizzing indicates a gas, a new material, is produced. When a new material is produced, a chemical reaction has occurred.****A gas is being formed causing it to bubble.||incorrect
+第335条: Yes, they could both be correct. Solubility is not the same for all materials.****No because all different solids have different solubility.||incorrect
+第340条: The mixtures are all clear.****The mixture 4 and 5 are saturated and a mixture is not a solution until it is saturated.||incorrect
+第346条: Set up evaporation dishes. The water will go into the air (evaporate) and the solid will be left in the dish (crystallize).****He could evaporate the water and then the solid will turn into crystals.||correct
+第353条: X. When equal amounts of 2 solutions are compared, the solution that is more concentrated will have the greater mass (weigh more). 50 milliliters of X has a greater mass than 50 milliliters of Y, so X must be more concentrated.****X, cup x is a lot more concentrated because x is more heavy.||correct
+第355条: X. When equal amounts of 2 solutions are compared, the solution that is more concentrated will have the greater mass (weigh more). 50 milliliters of X has a greater mass than 50 milliliters of Y, so X must be more concentrated.****X, because solution x weighs more and has more solute.||correct
+第360条: Crystals of different materials have different shapes. So the shape will help identify the material.****Each crystal has its own properties so if he recognized if he would know what solute it was.||correct
+第365条: Sammy's. Different materials would make very different sounds. Different size wood would make very similar sounds.****Sammy's idea - Because the plastic, the metal, and the wood are different sounds.||correct
+第366条: Sammy's. Different materials would make very different sounds. Different size wood would make very similar sounds.****Sammy - Because Nathaniel's is the same material and Sammy's is different material than just wood.||correct
+第368条: Sammy's. Different materials would make very different sounds. Different size wood would make very similar sounds.****Sammy - Because they are different things which make different sounds.||correct
+第376条: The water splashed because the fork was vibrating. Vibrations make sounds.****It moves and it vibrate.||correct
+第422条: 20 centimeters size is between 10 and 30 centimeters, so the temperature change must be less than the 30 centimeters container, but more than the 10 centimeters container. 6 degrees Celsius is halfway between.****I decided by looking at collector A's temperature at 10 minutes and doubled it.||incorrect
+第425条: Water heats up faster when covered.****That the uncovered items are colder than the covered items.||correct
+第433条: When 2 variables are changed, it is impossible to determine which variable is causing what effect.****Because the red is uncovered and blue is covered and you cannot compare them.||correct
+第434条: When 2 variables are changed, it is impossible to determine which variable is causing what effect.****Red uncovered water is not really hot, and the blue covered is hot, so when you compare them you would not get that much of useful information.||correct
+第436条: When 2 variables are changed, it is impossible to determine which variable is causing what effect.****Because blue goes so high and red goes so low you cannot tell anything.||incorrect
+第437条: Darker colors absorb more heat than lighter colors. The dark green sheeting is the darkest color available so she should use the green sheeting.****Because the darker the color the hotter it gets.||correct
+第438条: Darker colors absorb more heat than lighter colors. The dark green sheeting is the darkest color available so she should use the green sheeting.****I chose this answer because dark green is a darker color and would heat faster.||correct
+第439条: Darker colors absorb more heat than lighter colors. The dark green sheeting is the darkest color available so she should use the green sheeting.****Because darker colors heat up faster.||correct
+第446条: A. Dry soil heats more quickly and cools off more quickly than water. The graph shows A heats and cools more quickly than B, so A must be the dry soil.****A. The graph helped because dry soil will heat up faster than wet and A is higher so it would definitely be A.||correct
+第452条: A. The water in Julie's heater got hotter faster (or had a greater temperature change in 20 minutes). The collector in heater A has the greater surface area so the water in A would get hotter faster than the water in B.****B. Because in B, it is long and it hold more heat.||incorrect
+第454条: In the morning the Sun is in the east so shadows point west. In the afternoon the Sun is in the west so shadows point east.****The sun rises in the east and it sets in the west, so the school bus must be facing east so that is why.||incorrect
+第460条: Yes. Black absorbs more heat (energy) than white. White reflects more heat (energy) than black. Therefore the black covered box will heat up faster than the white covered box.****Yes. Yes, because black absorbs heat from the sun.||correct
+第467条: The cotyledon provides food for the plant to begin growing.****A cotyledon is a food supplies.||correct
+第468条: The cotyledon provides food for the plant to begin growing.****Food supply.||correct
+第470条: The embryo contains the tiny leaves and root of the plant.****The embryo is the part of the seed that grow into the root and then the stem.||incorrect
+第476条: If a part of the plant contains seeds, that part is the fruit.****It is plant.||incorrect
+第477条: The seed coat protects the seed until the plant begins to grow.****To protect it.||correct
+第478条: The seed coat protects the seed until the plant begins to grow.****To protect the seed.||correct
+第479条: The seed coat protects the seed until the plant begins to grow.****It protects the cotyledon.||correct
+第480条: The seed coat protects the seed until the plant begins to grow.****To protect the seed.||correct
+第487条: The root grows first so the root can take up water for the plant.****So it can feed the plant.||correct
+第502条: The shorter the string is, the more the string swings in 15 seconds.  The longer the string is, the less the string swings in 15 seconds.****The longer the string the shorter the swings.||incorrect
+第503条: The shorter the string is, the more the string swings in 15 seconds.  The longer the string is, the less the string swings in 15 seconds.****Well the longer the string the slower it swings so a 90 centimeters swinger will go very slow compared to a 19 centimeters swinger.||incorrect
+第505条: The boat with 0 marbles is the standard in this experiment.****0 marbles.||correct
+第509条: As time increases, the number of tree rings also increases.****The more tree rings the faster. The less, the slower.||incorrect
+第512条: As time increases, the number of tree rings also increases.****They look like it increases.||incorrect
+第519条: When less than 3 scoops of fertilizer are used, the more fertilizer used, the greater the mass of beans harvested. When more than 3 scoops of fertilizer are used, the more fertilizer used, the less the mass of beans harvested.****The relationship is that they had scoops of fertilizer numbered by 0, one, 2, 3, 4, 5, 6 and they have mass of beans numbered by 0.0, 0.2, 0.4, etcetera. Decimals going by 2's, so the relationship is that both scoops of fertilizer and mass of beans increases, and then decreases all together.||correct
+第520条: When less than 3 scoops of fertilizer are used, the more fertilizer used, the greater the mass of beans harvested. When more than 3 scoops of fertilizer are used, the more fertilizer used, the less the mass of beans harvested.****Too little scoops of fertilizer is too less but if you put too much it will weigh less as well. But if you put in not too much or not less is good.||incorrect
+第522条: The more blocks the truck carries, the less distance the truck travels in 10 seconds.****When he had 0 blocks it went 5 meters and when he had 2 it went 3 meters when had 4 it went one meter.||correct
+第525条: The launch position (line on the playground) is the variable that is controlled.****They controlled where they let the ball go.||incorrect
+第526条: The launch position (line on the playground) is the variable that is controlled.****The same spot to throw the ball.||incorrect
+第528条: The launch position (line on the playground) is the variable that is controlled.****They all start in the line.||incorrect
+第530条: Different girls are throwing the balls. The girls use different launch techniques. Each girl uses a different type of ball.****They did not control the distance the ball went.||incorrect
+第532条: Different girls are throwing the balls. The girls use different launch techniques. Each girl uses a different type of ball.****When they are running, standing or stepping. Then the different kinds of balls.||correct
+第533条: All variables except the girl need to be held constant (controlled). The girls all need to throw the same ball and use the same launch technique.****They all should stand and throw the same ball to have a controlled experiment.||correct
+第534条: All variables except the girl need to be held constant (controlled). The girls all need to throw the same ball and use the same launch technique.****They could all go at the same speed and same distance to get to the line or they could use the same kind of ball.||correct

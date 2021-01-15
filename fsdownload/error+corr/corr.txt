@@ -1,0 +1,437 @@
+第1条:The water was evaporated, leaving the salt.***We evaporated the water.||label:correct
+第2条:The water was evaporated, leaving the salt.***We poured just the water into another thing and let the water evaporate.||label:correct
+第3条:The water was evaporated, leaving the salt.***We kept the salt in the vial and put the water in the Petri dish.||label:incorrect
+第4条:The water was evaporated, leaving the salt.***Get all the water out.||label:incorrect
+第5条:The crystals were square with Xs on the surface.***Well because we broke them apart.||label:incorrect
+第6条:The crystals were square with Xs on the surface.***By looking very closely at it.||label:incorrect
+第7条:The crystals were square with Xs on the surface.***We know the crystals were salt because we identified them.||label:incorrect
+第8条:The crystals were square with Xs on the surface.***Because I look at the chart.||label:incorrect
+第10条:Topaz would be the hardest of the 4 minerals because none of the tools could scratch topaz and at least one tool could scratch each of the other minerals.***Topaz is harder than X, Y, and Z. Because it could not get scratched by the tools.||label:correct
+第11条:Topaz would be the hardest of the 4 minerals because none of the tools could scratch topaz and at least one tool could scratch each of the other minerals.***Topaz is harder than X, Y, Z.||label:incorrect
+第13条:Rub the minerals together and see which one scratches the other.***She can rub them against each other.||label:incorrect
+第14条:Rub the minerals together and see which one scratches the other.***Rubbing them together.||label:incorrect
+第15条:Rub the minerals together and see which one scratches the other.***Rub one of the minerals against the other one and see if it has a mark or a scratch.||label:correct
+第16条:Rub the minerals together and see which one scratches the other.***Rub them together and see if one scratches the other!||label:correct
+第17条:The harder mineral will leave a scratch on the less hard mineral. If the black mineral is harder, the brown mineral will have a scratch.***The one that starts to gather.||label:incorrect
+第18条:The harder mineral will leave a scratch on the less hard mineral. If the black mineral is harder, the brown mineral will have a scratch.***That it stay the scratch.||label:incorrect
+第20条:The harder mineral will leave a scratch on the less hard mineral. If the black mineral is harder, the brown mineral will have a scratch.***The harder one leave a scratch on the less scratch mineral.||label:correct
+第21条:Put acid on a rock. If the acid fizzes, Phil would know that the rock has calcite.***He would put vinegar on the rock get the strange then is quiet it and see if there is calcite.||label:incorrect
+第22条:Put acid on a rock. If the acid fizzes, Phil would know that the rock has calcite.***Move.||label:incorrect
+第23条:Put acid on a rock. If the acid fizzes, Phil would know that the rock has calcite.***Cube to in test and look for crystals.||label:incorrect
+第26条:The crystals have different shapes. Salt crystals are square with little Xs. The calcite crystals are shaped like needles (long and skinny).***Calcite crystals look different than salt crystals.||label:incorrect
+第27条:The crystals have different shapes. Salt crystals are square with little Xs. The calcite crystals are shaped like needles (long and skinny).***The mock rock is smelt like flour but the crystals did not.||label:incorrect
+第28条:The crystals have different shapes. Salt crystals are square with little Xs. The calcite crystals are shaped like needles (long and skinny).***Crystals are already there so calcite will leave different crystals behind.||label:incorrect
+第29条:The crystals are the same shape as the alum crystals.***The pictures look the same.||label:incorrect
+第30条:The crystals are the same shape as the alum crystals.***Because the minerals on the top look just the same as alum on the bottom.||label:incorrect
+第31条:The crystals are the same shape as the alum crystals.***I was seen the Epsom salt rock, alum rock. And I see it is the sodium the sulfate rock and I said yes.||label:incorrect
+第32条:The crystals are the same shape as the alum crystals.***Because it has some shapes in it.||label:incorrect
+第33条:The salt crystals are squares with Xs on top.***Salt crystals are small and white.||label:incorrect
+第34条:The salt crystals are squares with Xs on top.***They are square with Xs in the middle.||label:correct
+第35条:The salt crystals are squares with Xs on top.***The salt crystal evaporates when water gets by them.||label:incorrect
+第36条:The salt crystals are squares with Xs on top.***The salt crystals will look like small squares with Xs.||label:correct
+第39条:Many tiny bubbles will rise from the calcite when the calcite contacts the cold acid.***You would observe if it was fizzing because calcite has a strong reaction to vinegar.||label:correct
+第40条:Many tiny bubbles will rise from the calcite when the calcite contacts the cold acid.***It would fizzles.||label:correct
+第41条:The harder coin will scratch the other.***You could scratch the penny against the nickel and the nickel against the penny. If one scratches the other, it is harder.||label:correct
+第42条:The harder coin will scratch the other.***Find the more harder metal and the rock and penny is harder and see it want is harder.||label:incorrect
+第45条:The sand particles are larger and settle first. The flour particles are smaller and therefore settle more slowly.***Because it will not get dry.||label:incorrect
+第46条:The sand particles are larger and settle first. The flour particles are smaller and therefore settle more slowly.***Because one is heavy and one is not.||label:incorrect
+第47条:The sand particles are larger and settle first. The flour particles are smaller and therefore settle more slowly.***Because sand and flour do not mix very well.||label:incorrect
+第48条:The sand particles are larger and settle first. The flour particles are smaller and therefore settle more slowly.***The rock is tough.||label:incorrect
+第49条:Measure out equal masses of walnuts and peanuts. Smash the samples uniformly in the same size area on brown paper. Wait the same time for each sample.***1. Get one ounce of walnuts and peanuts. 2. Smear each one on a circle of the same size on absorbent paper. 3. Put it flat on a tray. 4. Wait a couple of days. 5. Measure and take results.||label:correct
+第50条:Measure out equal masses of walnuts and peanuts. Smash the samples uniformly in the same size area on brown paper. Wait the same time for each sample.***1. Anna can use a brown paper bag. 2. Spread the food on the brown paper bag. 3. Wait 2 days. 4. See which one has the most grease spots.||label:incorrect
+第53条:Anna should compare the size of the grease spots. The sample with the larger grease spot has more fat.***By looking at the scale and seeing which one is lower.||label:incorrect
+第54条:Anna should compare the size of the grease spots. The sample with the larger grease spot has more fat.***A grease spot will appear whatever grease spot is bigger that food has more fat.||label:correct
+第55条:Anna should compare the size of the grease spots. The sample with the larger grease spot has more fat.***The oil or fat will have spread on the paper.||label:incorrect
+第56条:Anna should compare the size of the grease spots. The sample with the larger grease spot has more fat.***And she can help you to measure the cup.||label:incorrect
+第58条:Susan should compare the amount of gas in each bag. The bag with the most gas contains the food with the most sugar.***The bag will be full of carbohydrate and it will be fat.||label:incorrect
+第60条:Susan should compare the amount of gas in each bag. The bag with the most gas contains the food with the most sugar.***Whichever one has the highest volume.||label:incorrect
+第61条:No, Fruity cream cookies are not pure sugar. The cookies did not produce as much gas as was produced by the pure sugar.***No because if they were pure sugar it would be 200 milliliters not 150 milliliters.||label:correct
+第63条:No, Fruity cream cookies are not pure sugar. The cookies did not produce as much gas as was produced by the pure sugar.***No because it show it on the picture plus it has less sugar on it.||label:incorrect
+第64条:No, Fruity cream cookies are not pure sugar. The cookies did not produce as much gas as was produced by the pure sugar.***Yes, it contain several grams of sugar.||label:incorrect
+第65条:Diva needs to know how much gas pure sugar produced in order to decide whether the cookies are pure sugar. Diva needs to make a controlled experiment.***To see if Fruity Cream cookies are full of sugar like her father said.||label:incorrect
+第66条:Diva needs to know how much gas pure sugar produced in order to decide whether the cookies are pure sugar. Diva needs to make a controlled experiment.***Yeast, warm water, and some containers.||label:incorrect
+第67条:Diva needs to know how much gas pure sugar produced in order to decide whether the cookies are pure sugar. Diva needs to make a controlled experiment.***To compare them and see how much less sugar Fruity Cream cookies.||label:incorrect
+第68条:Diva needs to know how much gas pure sugar produced in order to decide whether the cookies are pure sugar. Diva needs to make a controlled experiment.***Because her dad told her that is pure sugar.||label:incorrect
+第69条:The food contains sugar.***She is doing a sugar test.||label:correct
+第70条:The food contains sugar.***The chemical reaction indicates that yeast has acid.||label:incorrect
+第71条:The food contains sugar.***That this food has acid and or sugar.||label:correct
+第72条:The food contains sugar.***The chemical reaction creates acid.||label:incorrect
+第73条:If gas (carbon dioxide) is produced, the food contains acid. If no gas is produced, the food does not contain acid.***What amount of sugar and acid that is in the food.||label:incorrect
+第74条:If gas (carbon dioxide) is produced, the food contains acid. If no gas is produced, the food does not contain acid.***If the syringe goes up and if it bubbles that means it has acid.||label:correct
+第76条:If gas (carbon dioxide) is produced, the food contains acid. If no gas is produced, the food does not contain acid.***That the food contains acid and sugar.||label:incorrect
+第77条:Overly Orange takes fewer drops to change the color of indophenol so Overly Orange has a higher concentration of vitamin C.***Overly Orange contains a higher concentration of vitamin C. The evidence is that it had the least number of drops to turn clear.||label:correct
+第78条:Overly Orange takes fewer drops to change the color of indophenol so Overly Orange has a higher concentration of vitamin C.***It took less juice to make the indophenol turn clear.||label:incorrect
+第79条:Overly Orange takes fewer drops to change the color of indophenol so Overly Orange has a higher concentration of vitamin C.***Yes, because if is changes color it has more vitamin C.||label:incorrect
+第80条:Overly Orange takes fewer drops to change the color of indophenol so Overly Orange has a higher concentration of vitamin C.***Overly Orange has more vitamin C because it took less drops, more drops means less vitamin C. Less drop mean more vitamin C.||label:correct
+第81条:Fruitsnap contains little or no vitamin C so Fruitsnap does not change the color of the indophenol.***Because it had no vitamin C.||label:correct
+第82条:Fruitsnap contains little or no vitamin C so Fruitsnap does not change the color of the indophenol.***The indophenol did not change color because it does not have vitamin C in it.||label:correct
+第83条:Fruitsnap contains little or no vitamin C so Fruitsnap does not change the color of the indophenol.***There probably was not any vitamin C in it.||label:correct
+第84条:Fruitsnap contains little or no vitamin C so Fruitsnap does not change the color of the indophenol.***The reason it did not change color is because there is no vitamin C in the Fruitsnap.||label:correct
+第85条:Both finger patterns are loops.***They are both loops.||label:correct
+第86条:Both finger patterns are loops.***They are loops.||label:correct
+第87条:Both finger patterns are loops.***They both have a whorl.||label:incorrect
+第88条:Both finger patterns are loops.***They are both arches.||label:incorrect
+第89条:Fabric A is smoother and has a finer texture. Fabric B is rougher and has a coarser texture.***They are rough. A has bumpy dots. B has bumpy dots and lines.||label:incorrect
+第90条:Fabric A is smoother and has a finer texture. Fabric B is rougher and has a coarser texture.***A is like lines and B has squares and lines.||label:incorrect
+第92条:Fabric A is smoother and has a finer texture. Fabric B is rougher and has a coarser texture.***A is probably smoother than B.||label:correct
+第93条:The loops begin at opposite sides of the print.***The loop are go different.||label:incorrect
+第94条:The loops begin at opposite sides of the print.***On his A arch.||label:incorrect
+第95条:The loops begin at opposite sides of the print.***One is lighter than the other.||label:incorrect
+第97条:Compare prints to see if the patterns are the same.***Look really carefully at the paper and see if it is the same.||label:correct
+第98条:Compare prints to see if the patterns are the same.***Because there is small dogs and huge dogs.||label:incorrect
+第101条:Seeing multiple colors would show that vinegar can separate the permanent ink.***By looking at the vinegar.||label:incorrect
+第102条:Seeing multiple colors would show that vinegar can separate the permanent ink.***She would use filter paper and dip it into water.||label:incorrect
+第103条:Seeing multiple colors would show that vinegar can separate the permanent ink.***By looking at the pigment and chromatography.||label:incorrect
+第104条:Seeing multiple colors would show that vinegar can separate the permanent ink.***We try it and it work.||label:incorrect
+第105条:The mirror would complete the image of the object and make the object appear whole.***Is flat but when you write your letters backwards.||label:incorrect
+第106条:The mirror would complete the image of the object and make the object appear whole.***You would see the whole shape.||label:correct
+第108条:The mirror would complete the image of the object and make the object appear whole.***What the mirror is reflecting on the flat object.||label:incorrect
+第109条:2: Trace the features from the photograph onto the overlay grid. 4: Transfer the features to the matching squares on the smaller grid in your notebook.***2. Then put the tape on the side, then trace your neighborhood.||label:incorrect
+第110条:2: Trace the features from the photograph onto the overlay grid. 4: Transfer the features to the matching squares on the smaller grid in your notebook.***2. Make a model then copy it. 4. Trace it then make the closer together.||label:incorrect
+第111条:2: Trace the features from the photograph onto the overlay grid. 4: Transfer the features to the matching squares on the smaller grid in your notebook.***2. Trace the things on the overlay grid. 4. Draw all the things that was on the overlay grid onto the map.||label:incorrect
+第112条:2: Trace the features from the photograph onto the overlay grid. 4: Transfer the features to the matching squares on the smaller grid in your notebook.***2. Trace the homes, train tracks, and trees.||label:incorrect
+第113条:Earth materials erode and are carried by flowing water (a river). The earth materials form a delta when the materials are dropped off or deposited when the water stops flowing (at the mouth of a river).***Water pushes sand to make a slope.||label:incorrect
+第114条:Earth materials erode and are carried by flowing water (a river). The earth materials form a delta when the materials are dropped off or deposited when the water stops flowing (at the mouth of a river).***By erosion.||label:incorrect
+第115条:Earth materials erode and are carried by flowing water (a river). The earth materials form a delta when the materials are dropped off or deposited when the water stops flowing (at the mouth of a river).***Deltas are formed by erosion and deposition.||label:incorrect
+第116条:Earth materials erode and are carried by flowing water (a river). The earth materials form a delta when the materials are dropped off or deposited when the water stops flowing (at the mouth of a river).***Deltas form by the water wearing down the mouth and dragging it down.||label:incorrect
+第117条:The clay particles are lighter or smaller and are therefore carried farther by the water, so the clay particles end up the greatest distance away from the mouth of the river.***Because it is much lighter than sand and pebbles, so it can travel farther.||label:correct
+第119条:The clay particles are lighter or smaller and are therefore carried farther by the water, so the clay particles end up the greatest distance away from the mouth of the river.***It is deposited where I indicated because the clay is the second heaviest so the river could not move it as far as the sand easily.||label:incorrect
+第120条:The clay particles are lighter or smaller and are therefore carried farther by the water, so the clay particles end up the greatest distance away from the mouth of the river.***The clay is the farthest from the mouth of the river because it is the lightest and smallest.||label:correct
+第121条:Water will always flow downhill (mountain to valley).***I think the water flows that direction because happy valley is where it empties into.||label:incorrect
+第122条:Water will always flow downhill (mountain to valley).***I think the river flows in that direction because the pathway, the river flows toward happy valley.||label:incorrect
+第125条:During a flood there is more water in the creek and the water flows faster.***A flooded stream would run faster and the height of the river would be higher.||label:correct
+第127条:During a flood there is more water in the creek and the water flows faster.***The water flow would change because if it floods it would overflow start a new and wider channel.||label:incorrect
+第128条:During a flood there is more water in the creek and the water flows faster.***The water flows slow in a creek during a flood compared to a normal water flow.||label:incorrect
+第129条:You can see how much time is taken for the earth materials to move.***What time the things happen.||label:incorrect
+第130条:You can see how much time is taken for the earth materials to move.***It tells you when things happened.||label:incorrect
+第131条:You can see how much time is taken for the earth materials to move.***Water flows faster.||label:incorrect
+第132条:You can see how much time is taken for the earth materials to move.***The times, as well as things that have to do with the time, and observations you cannot draw.||label:incorrect
+第134条:She recommended the topographic map because the map shows the elevations along the trail. Pam would know where the trail was the steepest.***Because you where how big or 4.||label:incorrect
+第135条:She recommended the topographic map because the map shows the elevations along the trail. Pam would know where the trail was the steepest.***She would recommend it because when they take the hike, they will know how steep the mountain is.||label:correct
+第136条:She recommended the topographic map because the map shows the elevations along the trail. Pam would know where the trail was the steepest.***I think she would recommend this because a topographic map tells you more information for where you need to go.||label:incorrect
+第139条:The contour lines are closest together at Q.***The contour lines are closer together.||label:correct
+第140条:The contour lines are closest together at Q.***I know this by on the Q side the lines are closer together so they are steeper.||label:correct
+第141条:Earth materials settle out during deposition.***The earth materials will wear away.||label:incorrect
+第144条:Earth materials settle out during deposition.***They are being dropped off.||label:incorrect
+第145条:40 meters. The change in elevation is 20 meters between A and B and 20 meters between B and C. So the change between A and C is 40 meters. 20 m plus 20 m equals 40 m.***Because the circle is gets bigger.||label:incorrect
+第146条:40 meters. The change in elevation is 20 meters between A and B and 20 meters between B and C. So the change between A and C is 40 meters. 20 m plus 20 m equals 40 m.***40 meters, I know because each contour line is 20 meters.||label:correct
+第147条:40 meters. The change in elevation is 20 meters between A and B and 20 meters between B and C. So the change between A and C is 40 meters. 20 m plus 20 m equals 40 m.***B, Because it is between the A and C.||label:incorrect
+第148条:40 meters. The change in elevation is 20 meters between A and B and 20 meters between B and C. So the change between A and C is 40 meters. 20 m plus 20 m equals 40 m.***40 meters, The contour elevation goes up by 20 meters and if you double 20 you get 40.||label:correct
+第149条:A bigger hole puts more water in the stream. Increased flow moves more earth materials, increasing erosion. A steeper slope makes the water flow faster. Faster flow moves more earth materials, increasing erosion.***Because if you used a slope steeper it will destroy the earth material.||label:incorrect
+第150条:A bigger hole puts more water in the stream. Increased flow moves more earth materials, increasing erosion. A steeper slope makes the water flow faster. Faster flow moves more earth materials, increasing erosion.***I chose these choices because if there is a bigger hole then more water will flow through causing greater erosion. If the slope is steeper then the water will flow faster causing greater erosion..||label:correct
+第151条:A bigger hole puts more water in the stream. Increased flow moves more earth materials, increasing erosion. A steeper slope makes the water flow faster. Faster flow moves more earth materials, increasing erosion.***If the water source has a bigger hole it would let out more water at one time, more water more erosion. If we make a steeper slope the water will have more momentum making it stronger to carry more earth materials.||label:correct
+第152条:A bigger hole puts more water in the stream. Increased flow moves more earth materials, increasing erosion. A steeper slope makes the water flow faster. Faster flow moves more earth materials, increasing erosion.***Because more water would come out at once.||label:incorrect
+第153条:If the effort is applied farther from the fulcrum, less effort will lift the load.***They both start off with 0. And they both have effort in it.||label:incorrect
+第154条:If the effort is applied farther from the fulcrum, less effort will lift the load.***If the effort is farther from the fulcrum, it takes less effort to lift it.||label:correct
+第155条:If the effort is applied farther from the fulcrum, less effort will lift the load.***The farther the effort is applied from the fulcrum the effort decreases.||label:correct
+第157条:You have to pull up in this system.  In the single fixed pulley system, you get a directional advantage.***A single fixed single movable has 2 more ropes than a single fixed. A single fixed system has one rope that separates the effort.||label:incorrect
+第158条:You have to pull up in this system.  In the single fixed pulley system, you get a directional advantage.***A single fixed does not change anything but a single fixed or single movable effort is 3 times the distance.||label:incorrect
+第159条:You have to pull up in this system.  In the single fixed pulley system, you get a directional advantage.***Another disadvantage would be that the system would be more time consuming.||label:incorrect
+第160条:You have to pull up in this system.  In the single fixed pulley system, you get a directional advantage.***The disadvantage would again be distance. On the single fixed, if you wanted to lift something 4 foot, you would have to lift it 4 foot. On a single fixed or single movable upward effort, you would have to lift it 12 foot.||label:incorrect
+第161条:If the key sticks, the key is iron; if the key does not stick the key is aluminum.***You will know because if it sticks it is iron if it does not it is aluminum.||label:correct
+第162条:If the key sticks, the key is iron; if the key does not stick the key is aluminum.***If it attracts, it is iron. If it does not, it is aluminum.||label:correct
+第163条:If the key sticks, the key is iron; if the key does not stick the key is aluminum.***If it is iron it will stick to a magnet if it is aluminum it will not.||label:correct
+第164条:If the key sticks, the key is iron; if the key does not stick the key is aluminum.***Iron will stick. Aluminum will not stick.||label:correct
+第165条:Like poles repel and opposite poles attract.***The reason why the rings do not touch is because the magnetic force of the magnet are the same.||label:incorrect
+第167条:Like poles repel and opposite poles attract.***It is not touching because it is the other way around.||label:incorrect
+第168条:Like poles repel and opposite poles attract.***The reason the magnets on the pencil are not touching because of magnetic force.||label:incorrect
+第169条:A car is made of a lot of iron or steel.***When you stop Do not you see a white line. I think this has a magnet under it.||label:incorrect
+第170条:A car is made of a lot of iron or steel.***That is because a car is made of metal and the magnet attract to metal.||label:incorrect
+第171条:A car is made of a lot of iron or steel.***There is a magnet that turns the color of the signal light that makes it turn red, yellow, green.||label:incorrect
+第172条:A car is made of a lot of iron or steel.***The light turn red will repel, if the light green.||label:incorrect
+第173条:The brass ring would not stick to the nail because the ring is not iron. The nail is a temporary magnet, but brass cannot become a temporary magnet and thus does not stick to magnets.***It would not become a temporary magnet because it is not iron or metal it is brass.||label:correct
+第174条:The brass ring would not stick to the nail because the ring is not iron. The nail is a temporary magnet, but brass cannot become a temporary magnet and thus does not stick to magnets.***If Anne attached the nail to a brass ring nothing would happen because the magnetic force would not be strong enough.||label:incorrect
+第175条:The brass ring would not stick to the nail because the ring is not iron. The nail is a temporary magnet, but brass cannot become a temporary magnet and thus does not stick to magnets.***I think that the nail will fall. Because the brass ring is too much weight on the nail and magnet.||label:incorrect
+第178条:No, string is an insulator, so the pathway would not be completed.***Because it is not going in a circle so it will not work.||label:incorrect
+第179条:No, string is an insulator, so the pathway would not be completed.***You can use string because it will hook and make it work.||label:incorrect
+第180条:No, string is an insulator, so the pathway would not be completed.***Why it does work, because if the string is together the motor will run.||label:incorrect
+第182条:Yes, aluminum foil is a metal and all metals conduct. The aluminum foil would complete the circuit.***Yes, it has metal in it.||label:correct
+第183条:Yes, aluminum foil is a metal and all metals conduct. The aluminum foil would complete the circuit.***No because it is not wires.||label:incorrect
+第184条:Yes, aluminum foil is a metal and all metals conduct. The aluminum foil would complete the circuit.***No, because it cannot attract electricity or get power.||label:incorrect
+第185条:The circuit is not complete. The electrical pathway is broken.***I choose no because the wires are not connecting.||label:correct
+第186条:The circuit is not complete. The electrical pathway is broken.***It does not make a complete circuit.||label:correct
+第187条:The circuit is not complete. The electrical pathway is broken.***I chose this answer because they are missing a wire.||label:correct
+第188条:The circuit is not complete. The electrical pathway is broken.***The circuit is open.||label:correct
+第189条:That circuit is the only circuit that uses all of the correct contact points.***One wire needs to be touching the bottom and you can put another wire or battery on the side or the other way around. In this picture a wire is touching the bottom and the D-cell is touching the side.||label:correct
+第193条:Lee should put one of the loose wires on one part of the object and the other loose wire on another part of the object and see if the object completes the circuit.***He need to connect the wires to the object and see if the motor runs.||label:correct
+第194条:Lee should put one of the loose wires on one part of the object and the other loose wire on another part of the object and see if the object completes the circuit.***He will put one part of the wire one side and the other on the other side.||label:correct
+第196条:Lee should put one of the loose wires on one part of the object and the other loose wire on another part of the object and see if the object completes the circuit.***Connect the object to the wires that do not connect to each other and turn the switch on.||label:correct
+第197条:If the motor runs, the object is a conductor.***He will know if the motor will run if it is a conductor it will not if it is a isolator.||label:correct
+第198条:If the motor runs, the object is a conductor.***The conductor will make it go.||label:correct
+第199条:If the motor runs, the object is a conductor.***He will know that if it works.||label:correct
+第200条:If the motor runs, the object is a conductor.***He could know if it works, motor.||label:correct
+第201条:The bulb will light.***The light bulb will turn on.||label:correct
+第202条:The bulb will light.***The light bulb will light up.||label:correct
+第203条:The bulb will light.***When she moves the switch to the left the bulb will light.||label:correct
+第204条:The bulb will light.***It might lose power.||label:incorrect
+第205条:There is a complete circuit connecting the bulb to the D-cell battery.***That will happen because it is a complete circuit.||label:correct
+第206条:There is a complete circuit connecting the bulb to the D-cell battery.***Because when you turn it left the circuit is open which means it goes off.||label:incorrect
+第207条:There is a complete circuit connecting the bulb to the D-cell battery.***Because she only has one switch.||label:incorrect
+第208条:There is a complete circuit connecting the bulb to the D-cell battery.***Moving the switch the light bulb will make it light up.||label:incorrect
+第209条:The motor will run.***It will work.||label:correct
+第210条:The motor will run.***The motor will turn on.||label:correct
+第211条:The motor will run.***The motor will run.||label:correct
+第212条:The motor will run.***The bulb will still light.||label:incorrect
+第213条:There is a complete circuit connecting the motor to the D-cell battery.***Because the battery is hooked to the switch.||label:incorrect
+第214条:There is a complete circuit connecting the motor to the D-cell battery.***Because Right is to turn off and Left is to turn on.||label:incorrect
+第215条:There is a complete circuit connecting the motor to the D-cell battery.***Because she used the special switch.||label:incorrect
+第217条:No. Only one circuit can be complete at a time.***No because the switch is hooked in the middle.||label:incorrect
+第218条:No. Only one circuit can be complete at a time.***Yes if it go in a circle.||label:incorrect
+第219条:No. Only one circuit can be complete at a time.***She can too because it will be in a It will be a closed circuit.||label:incorrect
+第220条:No. Only one circuit can be complete at a time.***No she cannot, because the battery D-cell cannot hold that much energy.||label:incorrect
+第222条:The circuit does not include both contact points on the bulb holder, so the electricity can not go through the bulb.***The wire on the negative side of the light needs to be hooked to the motor's clip it should look like this?||label:incorrect
+第223条:The circuit does not include both contact points on the bulb holder, so the electricity can not go through the bulb.***It is not a complete circuit.||label:incorrect
+第224条:The circuit does not include both contact points on the bulb holder, so the electricity can not go through the bulb.***The bulb will not light because there is a closed circuit.||label:incorrect
+第225条:The negative terminals of the D-cell batteries are facing each other, so there is no flow of electricity.***They will not run because electricity flows from negative to positive and on here it is negative to negative.||label:correct
+第226条:The negative terminals of the D-cell batteries are facing each other, so there is no flow of electricity.***They will not run because the batteries have to be facing the same direction, negative to positive.||label:correct
+第227条:The negative terminals of the D-cell batteries are facing each other, so there is no flow of electricity.***They will not run because negative is pointing to negative.||label:correct
+第228条:The negative terminals of the D-cell batteries are facing each other, so there is no flow of electricity.***The motors will not run because they do not have negative they only have positives.||label:incorrect
+第229条:The motor will continue to run because the motor still has a pathway to the D-cell.***The motor will burn out also.||label:incorrect
+第230条:The motor will continue to run because the motor still has a pathway to the D-cell.***The motor will also burn out with the light bulb because it is in parallel circuit.||label:incorrect
+第231条:The motor will continue to run because the motor still has a pathway to the D-cell.***The motor will keep running.||label:incorrect
+第232条:The motor will continue to run because the motor still has a pathway to the D-cell.***The motor will stop working because it is in a series.||label:incorrect
+第233条:When a paperclip sticks to a magnet, the paperclip turns into a temporary magnet, so the paperclip can stick to other paperclips and other things made of iron.***The magnet has more power so it is able to hold more.||label:incorrect
+第234条:When a paperclip sticks to a magnet, the paperclip turns into a temporary magnet, so the paperclip can stick to other paperclips and other things made of iron.***Because the magnetism is flowing.||label:incorrect
+第235条:When a paperclip sticks to a magnet, the paperclip turns into a temporary magnet, so the paperclip can stick to other paperclips and other things made of iron.***Dear Kurt, that paperclip became a temporary magnet that is why you could pick up 3 magnets.||label:correct
+第236条:When a paperclip sticks to a magnet, the paperclip turns into a temporary magnet, so the paperclip can stick to other paperclips and other things made of iron.***It is an induced magnetism.||label:incorrect
+第237条:If the middle bulb burns out the other 2 bulbs will stay lit.***Nothing will happen.||label:correct
+第240条:If the middle bulb burns out the other 2 bulbs will stay lit.***The bulb will go off.||label:incorrect
+第241条:The circuit is parallel, so each bulb has its own pathway to the D-cell battery, so the bulbs that do not burn out continue to shine.***It is a parallel that is why just that one will go out.||label:correct
+第242条:The circuit is parallel, so each bulb has its own pathway to the D-cell battery, so the bulbs that do not burn out continue to shine.***It is a parallel circuit and each light bulb has its own path to the D-Cell or power supply.||label:correct
+第243条:The circuit is parallel, so each bulb has its own pathway to the D-cell battery, so the bulbs that do not burn out continue to shine.***It will happen because it is a parallel circuit.||label:correct
+第244条:The circuit is parallel, so each bulb has its own pathway to the D-cell battery, so the bulbs that do not burn out continue to shine.***I chose this answer because it is a series.||label:incorrect
+第245条:You can not tell because we do not know the strength of the magnets. If the magnets are weak, the second piece of foam might put too much distance between the 2 magnets for the interaction to hold the magnets in place. If the magnets are strong the magnets might stay in place.***There has to be a more fatter thing.||label:incorrect
+第246条:You can not tell because we do not know the strength of the magnets. If the magnets are weak, the second piece of foam might put too much distance between the 2 magnets for the interaction to hold the magnets in place. If the magnets are strong the magnets might stay in place.***The magnets might be strong enough to get through the foam blocks or they are not strong enough to get through the foam blocks.||label:correct
+第247条:You can not tell because we do not know the strength of the magnets. If the magnets are weak, the second piece of foam might put too much distance between the 2 magnets for the interaction to hold the magnets in place. If the magnets are strong the magnets might stay in place.***I chose that answer because the magnets might go through the foam blocks but it might not go through.||label:correct
+第248条:You can not tell because we do not know the strength of the magnets. If the magnets are weak, the second piece of foam might put too much distance between the 2 magnets for the interaction to hold the magnets in place. If the magnets are strong the magnets might stay in place.***I chose that answer because I am not sure.||label:incorrect
+第249条:Wendy should hook one end of the wire to the negative side of a D-cell battery and the other end to the positive side of the D-cell battery.***She would hook the wires up to the D-cell.||label:correct
+第250条:Wendy should hook one end of the wire to the negative side of a D-cell battery and the other end to the positive side of the D-cell battery.***Connect the 2 end of the wires to the D-cell.||label:correct
+第251条:Wendy should hook one end of the wire to the negative side of a D-cell battery and the other end to the positive side of the D-cell battery.***She needs a battery onto then, attach the wire to the battery.||label:correct
+第252条:Wendy should hook one end of the wire to the negative side of a D-cell battery and the other end to the positive side of the D-cell battery.***Connect the wire tips to a D-cell.||label:correct
+第253条:Greta and Andre have different sized hands.***Greta's hand is probably longer than Andre's hand.||label:correct
+第254条:Greta and Andre have different sized hands.***Because Greta's hands are small. And Andre's hands are big.||label:correct
+第255条:Greta and Andre have different sized hands.***Because they are older than the other and their hand have different hands, or one of them opened their finger and the other did not.||label:correct
+第256条:Greta and Andre have different sized hands.***I think different hands size.||label:correct
+第257条:The marbles used by the 2 groups were probably different masses.***Because Jin's group has less marbles and Bee's group had more marbles.||label:incorrect
+第259条:The marbles used by the 2 groups were probably different masses.***He could get a different apple.||label:incorrect
+第260条:The marbles used by the 2 groups were probably different masses.***They forgot to do some things before they balance.||label:incorrect
+第261条:Use a standard unit of mass like grams.***They should zero their balances.||label:incorrect
+第262条:Use a standard unit of mass like grams.***Get the same marbles.||label:incorrect
+第263条:Use a standard unit of mass like grams.***They should zero it out before they put the apple in.||label:incorrect
+第264条:Use a standard unit of mass like grams.***Use grams.||label:correct
+第268条:So people know exactly what the measurement means. A standard is necessary so everyone measures using the same unit and everyone gets the same measurement.***Because it is a standard unit.||label:incorrect
+第269条:Bill must have been using degrees Celsius if 28 is a warm temperature.***A mass.||label:incorrect
+第270条:Bill must have been using degrees Celsius if 28 is a warm temperature.***He is using a Celsius.||label:correct
+第271条:Bill must have been using degrees Celsius if 28 is a warm temperature.***Thermometer.||label:incorrect
+第272条:Bill must have been using degrees Celsius if 28 is a warm temperature.***Celsius.||label:correct
+第273条:There is 30 grams (20 grams plus 10 grams) in the right cup. The balance is tipped down on the ball side which means the ball weighs more than 30 grams. 40 grams is the only weight heavier than 30 grams.***Because 10 grams plus 20 grams is 30 grams.||label:incorrect
+第274条:There is 30 grams (20 grams plus 10 grams) in the right cup. The balance is tipped down on the ball side which means the ball weighs more than 30 grams. 40 grams is the only weight heavier than 30 grams.***I chose that answer because left side is heavy than the right side I think that is the answer.||label:incorrect
+第275条:There is 30 grams (20 grams plus 10 grams) in the right cup. The balance is tipped down on the ball side which means the ball weighs more than 30 grams. 40 grams is the only weight heavier than 30 grams.***I chose it because 20 grams plus 10 grams equals 30 grams and the ball is heavier that is why I chose it.||label:correct
+第277条:Use a standard unit of measurement such as centimeters or meters.***They could use a meter tape to measure or feet.||label:correct
+第278条:Use a standard unit of measurement such as centimeters or meters.***They should use a standard.||label:correct
+第279条:Use a standard unit of measurement such as centimeters or meters.***That they have different hands that are big and small.||label:incorrect
+第280条:Use a standard unit of measurement such as centimeters or meters.***They could use a tape meter so they could measure both the rug and the floor.||label:correct
+第284条:The dissolved salt particles are small enough to go through the holes in the filter paper, but the sand particles are too large.***Because the salt was a smaller particle than the sand.||label:correct
+第285条:A solution is a mixture formed when a solid dissolves in a liquid.***Because a solution is something you use in a everyday life, and mixture is something we do not always use.||label:incorrect
+第286条:A solution is a mixture formed when a solid dissolves in a liquid.***A solution is a mixture that cannot be taken apart.||label:incorrect
+第287条:A solution is a mixture formed when a solid dissolves in a liquid.***Different items.||label:incorrect
+第288条:A solution is a mixture formed when a solid dissolves in a liquid.***A mixture is 2 thing put together, a solution is one thing that disperses into the so that the first material cannot be seen.||label:incorrect
+第289条:The solid dissolves (seems to disappear) and the liquid remains clear.***Because you can see through it, and the mixture will dissolve into it.||label:correct
+第291条:The solid dissolves (seems to disappear) and the liquid remains clear.***You know when the solid cannot be seen.||label:incorrect
+第293条:Emily's crystals are the same shape as the alum crystals shown on the key.***The crystals are the same shape and they look the same.||label:incorrect
+第294条:Emily's crystals are the same shape as the alum crystals shown on the key.***Because in the key, alum is the exact same pattern as the one above.||label:correct
+第295条:Emily's crystals are the same shape as the alum crystals shown on the key.***I think that the Epsom salt because it look like salt crystal. It is sodium hyposulfite or alum.||label:incorrect
+第297条:The particles of the solid are too big to go through the holes in the paper filter.***Because the solid is big and it cannot go through the filter paper.||label:correct
+第298条:The particles of the solid are too big to go through the holes in the paper filter.***The solid stays because it is bigger than the holes in filter and stay in the filter.||label:correct
+第299条:The particles of the solid are too big to go through the holes in the paper filter.***The solid is bigger than the holes in the filter.||label:correct
+第300条:The particles of the solid are too big to go through the holes in the paper filter.***Because you cannot handle the water. For example we cannot handle water on our hands but we can handle solid things.||label:incorrect
+第301条:Yes. If both solutions are saturated (and at the same temperature), the solutions will both have the same concentration. Once a solution is saturated, the solution cannot get any more concentrated.***No because Mariella's is more concentrated because her's has less water so it is taste more sweeter or saltier.||label:incorrect
+第302条:Yes. If both solutions are saturated (and at the same temperature), the solutions will both have the same concentration. Once a solution is saturated, the solution cannot get any more concentrated.***Yes because they both have the same amount of water.||label:incorrect
+第304条:Yes. If both solutions are saturated (and at the same temperature), the solutions will both have the same concentration. Once a solution is saturated, the solution cannot get any more concentrated.***No because one has 100 milliliters of water and the other has 250 milliliters of water.||label:incorrect
+第305条:The solutions have the same concentration (2 spoons in 50 milliliters is the same as 4 spoons in 100 milliliters) so the mass would also be the same.***Because they are equally concentrated and they both have some of water.||label:incorrect
+第307条:The solutions have the same concentration (2 spoons in 50 milliliters is the same as 4 spoons in 100 milliliters) so the mass would also be the same.***Taking 50 milliliters from solution B would equal solution A.||label:incorrect
+第308条:The solutions have the same concentration (2 spoons in 50 milliliters is the same as 4 spoons in 100 milliliters) so the mass would also be the same.***Solution B is just double solution A.||label:incorrect
+第309条:Both solutions are saturated (as indicated by the material on the bottom) so, even though one cup has more spoonfuls of sugar, both have the same (maximum) concentration.***Cup 2 has more material on the bottom than cup one. So cup one might one scoop saturated and cup 2 might have 3 scoops on the bottom but the same concentration in the solution.||label:correct
+第310条:Both solutions are saturated (as indicated by the material on the bottom) so, even though one cup has more spoonfuls of sugar, both have the same (maximum) concentration.***Because cup A have more solute then cup one. But they have the same amount of water.||label:incorrect
+第311条:Both solutions are saturated (as indicated by the material on the bottom) so, even though one cup has more spoonfuls of sugar, both have the same (maximum) concentration.***I chose C because it has 8 spoons solute.||label:incorrect
+第312条:Both solutions are saturated (as indicated by the material on the bottom) so, even though one cup has more spoonfuls of sugar, both have the same (maximum) concentration.***Once saturated it is at the most concentration it can get, and they are both saturated.||label:correct
+第313条:Bubbling means a gas has formed. Gas is a new material. A new material indicates a reaction.***Because it was bubbly.||label:incorrect
+第314条:Bubbling means a gas has formed. Gas is a new material. A new material indicates a reaction.***Because it bubbled.||label:incorrect
+第315条:Bubbling means a gas has formed. Gas is a new material. A new material indicates a reaction.***Jorge knew that because it was bubbly and when it bubbly it means it is gas.||label:correct
+第317条:A chemical reaction occurred. [The white solid is a precipitate (a new material) which indicates the reaction.]***That indicates that there is a precipitate on the sides.||label:incorrect
+第319条:A chemical reaction occurred. [The white solid is a precipitate (a new material) which indicates the reaction.]***That indicates the 2 thing mixed together became a precipitate.||label:incorrect
+第320条:A chemical reaction occurred. [The white solid is a precipitate (a new material) which indicates the reaction.]***There was a chemical reaction and a precipitate was formed.||label:correct
+第322条:The fizzing indicates a gas, a new material, is produced. When a new material is produced, a chemical reaction has occurred.***Fizzing usually means bubbles. And bubbles mean there was gas formed which is a sign of a chemical reaction so yes.||label:correct
+第323条:The fizzing indicates a gas, a new material, is produced. When a new material is produced, a chemical reaction has occurred.***The bubbles occurred because it was gas.||label:incorrect
+第324条:The fizzing indicates a gas, a new material, is produced. When a new material is produced, a chemical reaction has occurred.***Probably.||label:incorrect
+第325条:A solution was created when the eggshells disappeared (dissolved) and the mixture ended up as a clear liquid.***She make a solution because she put eggshells into the cup and covered.||label:incorrect
+第326条:A solution was created when the eggshells disappeared (dissolved) and the mixture ended up as a clear liquid.***Because when she found it was.||label:incorrect
+第327条:A solution was created when the eggshells disappeared (dissolved) and the mixture ended up as a clear liquid.***She made a solution because she did eggshells and vinegar. Vinegar makes stuff bubble.||label:incorrect
+第328条:A solution was created when the eggshells disappeared (dissolved) and the mixture ended up as a clear liquid.***Because something dissolved and stuff.||label:incorrect
+第329条:A reaction was indicated by the bubbles of gas (a new material) being produced.***The bubbles.||label:correct
+第330条:A reaction was indicated by the bubbles of gas (a new material) being produced.***Because of the bubbles on the shell.||label:correct
+第331条:A reaction was indicated by the bubbles of gas (a new material) being produced.***Because the vinegar is a reaction to eggshells and because of the reaction the eggshells are gone.||label:incorrect
+第332条:A reaction was indicated by the bubbles of gas (a new material) being produced.***Because she added more than 2 chemicals producing the small bubbles on the eggshells that dissolved.||label:correct
+第333条:Yes, they could both be correct. Solubility is not the same for all materials.***Yes because solubility means how soluble a mixture is. So they can be more or less soluble.||label:correct
+第334条:Yes, they could both be correct. Solubility is not the same for all materials.***Yes.||label:incorrect
+第336条:Yes, they could both be correct. Solubility is not the same for all materials.***They could be different because they are not the same thing.||label:correct
+第337条:The mixtures are all clear.***That it is clear that is how he can know.||label:correct
+第338条:The mixtures are all clear.***Mixture one and 3 are both clear and nothing on bottom.||label:correct
+第339条:The mixtures are all clear.***Mixture one and 2 are clear.||label:correct
+第341条:The concentrations are the same because both mixtures are saturated.***Mixture 5 is greater than mixture 4, it had more solid.||label:incorrect
+第342条:The concentrations are the same because both mixtures are saturated.***The same because they are saturation and it cannot go any more.||label:correct
+第343条:The concentrations are the same because both mixtures are saturated.***Same because they both got something.||label:incorrect
+第344条:The concentrations are the same because both mixtures are saturated.***More because there is more solid.||label:incorrect
+第345条:Set up evaporation dishes. The water will go into the air (evaporate) and the solid will be left in the dish (crystallize).***You use a filter to separate the solid and the water in a cup the solid stays on the filter and the water goes through.||label:incorrect
+第347条:Set up evaporation dishes. The water will go into the air (evaporate) and the solid will be left in the dish (crystallize).***He could put the solution through filter paper and separated the solute and the solvent.||label:incorrect
+第348条:Set up evaporation dishes. The water will go into the air (evaporate) and the solid will be left in the dish (crystallize).***Filter the solution and the salt, dissolved salt, will stay on the filter and the water will just go back in the cup.||label:incorrect
+第349条:Jim would see a clear solution. 3 spoons of solid dissolves, so 2 spoons will dissolve.***Clear with nothing on the bottom because one is clear with nothing on the bottom and 3 is the same.||label:correct
+第350条:Jim would see a clear solution. 3 spoons of solid dissolves, so 2 spoons will dissolve.***He would observe nothing. It would be a solution. Because mixture one and 3 each have one scoop more or less and they are still solutions.||label:incorrect
+第351条:Jim would see a clear solution. 3 spoons of solid dissolves, so 2 spoons will dissolve.***It would probably saturate.||label:incorrect
+第352条:Jim would see a clear solution. 3 spoons of solid dissolves, so 2 spoons will dissolve.***Clear nothing on bottom because mixture 3 has clear and nothing on the bottom and it has 3 scoops.||label:correct
+第354条:X. When equal amounts of 2 solutions are compared, the solution that is more concentrated will have the greater mass (weigh more). 50 milliliters of X has a greater mass than 50 milliliters of Y, so X must be more concentrated.***Y, I think y because x just because it is heavier does not mean that that is more concentrated. I think it means it is less concentrated because there is more room the more water the more room.||label:incorrect
+第356条:X. When equal amounts of 2 solutions are compared, the solution that is more concentrated will have the greater mass (weigh more). 50 milliliters of X has a greater mass than 50 milliliters of Y, so X must be more concentrated.***X, because cup x has more stuff in it than cup y. cup y could still hold more.||label:incorrect
+第357条:Crystals of different materials have different shapes. So the shape will help identify the material.***Yes, because he could find out what type of crystals they are.||label:incorrect
+第358条:Crystals of different materials have different shapes. So the shape will help identify the material.***By comparing them to other solutions.||label:incorrect
+第359条:Crystals of different materials have different shapes. So the shape will help identify the material.***Weight them all.||label:incorrect
+第361条:The rubber band vibrates.***Because the vibration makes it.||label:correct
+第362条:The rubber band vibrates.***Because it vibrates.||label:correct
+第363条:The rubber band vibrates.***Because it is made rubber.||label:incorrect
+第364条:The rubber band vibrates.***A rubber band make a sound by vibration when you pluck it, so that is how it cause the sound.||label:correct
+第367条:Sammy's. Different materials would make very different sounds. Different size wood would make very similar sounds.***Nathaniel - Because it has different sounds and metal vibrates more than wood and plastics, plastic is a different material than wood and makes a different sound.||label:incorrect
+第369条:If the string is shorter, the pitch will be higher. If the string is longer, the pitch will be lower.***The short string has a higher pitch sound.||label:correct
+第370条:If the string is shorter, the pitch will be higher. If the string is longer, the pitch will be lower.***The lower pitch make's the loudest noise.||label:incorrect
+第371条:If the string is shorter, the pitch will be higher. If the string is longer, the pitch will be lower.***The shorter the string the higher the pitch the Longer the string the lower the pitch.||label:correct
+第372条:If the string is shorter, the pitch will be higher. If the string is longer, the pitch will be lower.***The shorter string has a higher pitch than the longer string!||label:correct
+第373条:The water splashed because the fork was vibrating. Vibrations make sounds.***Vibration maked all these sound so probably it was vibration.||label:correct
+第374条:The water splashed because the fork was vibrating. Vibrations make sounds.***Because the water splashed because of the vibrations moving.||label:correct
+第375条:The water splashed because the fork was vibrating. Vibrations make sounds.***Because it moves around.||label:incorrect
+第377条:When the string was tighter, the pitch was higher.***You tighten the string you pull a string when the other hand tighten.||label:incorrect
+第378条:When the string was tighter, the pitch was higher.***I get a higher pitch.||label:correct
+第379条:When the string was tighter, the pitch was higher.***If the string on the guitar was shorter it would make a higher pitch.||label:correct
+第380条:When the string was tighter, the pitch was higher.***It is going to sound high. And if it not tightened it going to sound low.||label:correct
+第381条:When the string was shorter, the pitch was higher.***If you shorten the string it is louder.||label:incorrect
+第382条:When the string was shorter, the pitch was higher.***The pitch was a higher pitch.||label:correct
+第383条:When the string was shorter, the pitch was higher.***It makes a loud sound.||label:incorrect
+第384条:When the string was shorter, the pitch was higher.***The pitch will get higher.||label:correct
+第385条:The saxophone has the longest and fattest tube.***Because the bigger it is the lower the sound.||label:correct
+第386条:The saxophone has the longest and fattest tube.***I think it makes a low sound because it has a little hole so the sound can get through.||label:incorrect
+第387条:The saxophone has the longest and fattest tube.***Because it has to travel a long distance.||label:incorrect
+第388条:The saxophone has the longest and fattest tube.***The sound goes a long distance.||label:incorrect
+第389条:Agree. Vibrations are movements. Vibrations produce sound.***Yes I do agree because there are some that have to shake.||label:incorrect
+第390条:Agree. Vibrations are movements. Vibrations produce sound.***No! Because a TV makes sound and does not move.||label:incorrect
+第391条:Agree. Vibrations are movements. Vibrations produce sound.***I agree with Kate because a vibration has to move And in order for sound to be made it needs to vibrate.||label:correct
+第392条:Agree. Vibrations are movements. Vibrations produce sound.***I agree because it has to vibrate and vibrating is moving.||label:correct
+第393条:So that people notice the sound.***To get cars out of the way.||label:correct
+第394条:So that people notice the sound.***Because to warn people to get out of the way.||label:correct
+第395条:So that people notice the sound.***It is so loud about 2 blocks away can hear it.||label:correct
+第396条:So that people notice the sound.***So the cars and people would know that a is burning or is stuck in a small place so the peoples and cars could get out of the way for the fire engine could get through.||label:correct
+第397条:When the string is tighter, the pitch will be higher.***If she did the pitch would be louder.||label:incorrect
+第398条:When the string is tighter, the pitch will be higher.***It would of got higher.||label:correct
+第399条:When the string is tighter, the pitch will be higher.***The pitch will be lower.||label:incorrect
+第400条:When the string is tighter, the pitch will be higher.***The pitch would be higher if she pulled it really tight.||label:correct
+第401条:When the string is longer, the pitch will be lower.***It would be the same.||label:incorrect
+第402条:When the string is longer, the pitch will be lower.***Low.||label:correct
+第403条:When the string is longer, the pitch will be lower.***It would of got higher because it is a longer string so if she plucked it it still would be high.||label:incorrect
+第404条:When the string is longer, the pitch will be lower.***It would be low pitch.||label:correct
+第405条:Shadows change during the day because the Earth is turning. The Sun stays in one place.***Because earth rotates the sun does not move.||label:correct
+第406条:Shadows change during the day because the Earth is turning. The Sun stays in one place.***Because although it looks like the sun moves, the earth is really moving making the way the sun shines on the earth different.||label:correct
+第407条:Shadows change during the day because the Earth is turning. The Sun stays in one place.***Because only the earth move not the sun and if you are on the earth you could feel the sun beam on you all the time when you are outside.||label:correct
+第408条:Shadows change during the day because the Earth is turning. The Sun stays in one place.***So you can tell the time by your shadow instead of looking at a watch.||label:incorrect
+第409条:In the afternoon, shadows point east because the Sun is in the west. So the west side is opposite of the shadows.***Because the person the north side has the longest shadow and the fountain on the west and the tree have the west shadow.||label:incorrect
+第410条:In the afternoon, shadows point east because the Sun is in the west. So the west side is opposite of the shadows.***I knew which direction was north, so I figured that west was to the left.||label:incorrect
+第411条:In the afternoon, shadows point east because the Sun is in the west. So the west side is opposite of the shadows.***Because I remember a compass rose and west is on the left side.||label:incorrect
+第412条:In the afternoon, shadows point east because the Sun is in the west. So the west side is opposite of the shadows.***I know which direction is west because west always points at the opposite direction.||label:incorrect
+第413条:The tree blocks the light from the Sun.***The light makes the shadow.||label:incorrect
+第414条:The tree blocks the light from the Sun.***The tree picture is look like the tree is in east.||label:incorrect
+第415条:The tree blocks the light from the Sun.***Because it is dark and the sun is on east direction.||label:incorrect
+第416条:The tree blocks the light from the Sun.***Because since the sun is out it gives it a shadow.||label:incorrect
+第417条:A heat sink is any material that absorbs (a lot of) heat.***A material that goes slowly and energy goes slowly.||label:incorrect
+第418条:A heat sink is any material that absorbs (a lot of) heat.***Something the heat sinks into.||label:incorrect
+第419条:A heat sink is any material that absorbs (a lot of) heat.***Sand is heat sink.||label:incorrect
+第420条:A heat sink is any material that absorbs (a lot of) heat.***A system that takes a long time to heat up and a long time to cool off.||label:incorrect
+第421条:20 centimeters size is between 10 and 30 centimeters, so the temperature change must be less than the 30 centimeters container, but more than the 10 centimeters container. 6 degrees Celsius is halfway between.***I looked at the graph and saw that if 10 centimeters was 3 then it might be 6 centimeters.||label:incorrect
+第423条:20 centimeters size is between 10 and 30 centimeters, so the temperature change must be less than the 30 centimeters container, but more than the 10 centimeters container. 6 degrees Celsius is halfway between.***Because it was the highest one so C got hotter.||label:incorrect
+第424条:20 centimeters size is between 10 and 30 centimeters, so the temperature change must be less than the 30 centimeters container, but more than the 10 centimeters container. 6 degrees Celsius is halfway between.***Because almost all in the 10 minute time zone are in 3 degree intervals.||label:incorrect
+第426条:Water heats up faster when covered.***If the heater is covered the water is hotter faster.||label:correct
+第427条:Water heats up faster when covered.***The covered container can conceal heat.||label:incorrect
+第428条:Water heats up faster when covered.***That it maybe gets hotter than uncovered.||label:correct
+第429条:Solar water heaters with blue collectors heat up faster than solar water heaters with red collectors.***Blue is a dark color so blue covered and uncovered are the warmest temperatures then red is a kind of lighter color so they go under the blue on the chart.||label:correct
+第430条:Solar water heaters with blue collectors heat up faster than solar water heaters with red collectors.***It tells you the blue covered and uncovered are hotter than the reds.||label:correct
+第431条:Solar water heaters with blue collectors heat up faster than solar water heaters with red collectors.***It tells you that blue heats up faster because it is a darker color than red.||label:correct
+第432条:Solar water heaters with blue collectors heat up faster than solar water heaters with red collectors.***That blue absorbs heat faster than the red.||label:correct
+第435条:When 2 variables are changed, it is impossible to determine which variable is causing what effect.***Because one is uncovered and one is covered. Also I think because they are now the same color.||label:incorrect
+第440条:Darker colors absorb more heat than lighter colors. The dark green sheeting is the darkest color available so she should use the green sheeting.***Because the darkest color available would transfer from absorbing the heat from the dark green.||label:correct
+第441条:The black areas in the 2 collectors (and the collectors themselves) are the same size. The amount of heat absorbed will be the same so the temperature change will also be the same.***The as the day go on it gets cooler because the sun is going down.||label:incorrect
+第442条:The black areas in the 2 collectors (and the collectors themselves) are the same size. The amount of heat absorbed will be the same so the temperature change will also be the same.***Because the triangles and containers are the same size and color they will both absorb the same amount of heat.||label:correct
+第443条:The black areas in the 2 collectors (and the collectors themselves) are the same size. The amount of heat absorbed will be the same so the temperature change will also be the same.***I think the same because it is the same size, same shape, same color. It is just placed differently in the container which would not have an impact.||label:correct
+第444条:The black areas in the 2 collectors (and the collectors themselves) are the same size. The amount of heat absorbed will be the same so the temperature change will also be the same.***They would be the same because they are the exact same size in the same position with the same size of containers.||label:correct
+第445条:A. Dry soil heats more quickly and cools off more quickly than water. The graph shows A heats and cools more quickly than B, so A must be the dry soil.***A. Because it has a higher temperature than water.||label:incorrect
+第447条:A. Dry soil heats more quickly and cools off more quickly than water. The graph shows A heats and cools more quickly than B, so A must be the dry soil.***A. A, because if you use or put any water in an earth material it will hold the temperature. Because water is a heat sink.||label:incorrect
+第448条:A. Dry soil heats more quickly and cools off more quickly than water. The graph shows A heats and cools more quickly than B, so A must be the dry soil.***B. I think dry soil goes down so it bring plants do not grow quickly so it goes down.||label:incorrect
+第449条:A. The water in Julie's heater got hotter faster (or had a greater temperature change in 20 minutes). The collector in heater A has the greater surface area so the water in A would get hotter faster than the water in B.***B. That they both painted black on the inside in the bottom and filled the top with liters of water. And the heaters will set the sun.||label:incorrect
+第450条:A. The water in Julie's heater got hotter faster (or had a greater temperature change in 20 minutes). The collector in heater A has the greater surface area so the water in A would get hotter faster than the water in B.***A. When a box has more black than the other it will heat up faster, and hotter.||label:correct
+第451条:A. The water in Julie's heater got hotter faster (or had a greater temperature change in 20 minutes). The collector in heater A has the greater surface area so the water in A would get hotter faster than the water in B.***A. Because Julie's had more black flooring. The more black flooring you get the hotter it gets. Julie's side of the chart had the highest temperature. So box A is hers.||label:correct
+第453条:In the morning the Sun is in the east so shadows point west. In the afternoon the Sun is in the west so shadows point east.***Because the sun rounded around us that is why it is pointing the opposite direction.||label:incorrect
+第455条:In the morning the Sun is in the east so shadows point west. In the afternoon the Sun is in the west so shadows point east.***Because the object is blocking the sun in that area.||label:incorrect
+第456条:In the morning the Sun is in the east so shadows point west. In the afternoon the Sun is in the west so shadows point east.***The earth rotates.||label:incorrect
+第457条:Yes. Black absorbs more heat (energy) than white. White reflects more heat (energy) than black. Therefore the black covered box will heat up faster than the white covered box.***Yes. Black is a hotter color than white.||label:incorrect
+第458条:Yes. Black absorbs more heat (energy) than white. White reflects more heat (energy) than black. Therefore the black covered box will heat up faster than the white covered box.***Yes. Yes, it would because since she put them both in the sun and stuck a thermometer in both then she will know which box will heat up faster, and she will see if her prediction is correct.||label:incorrect
+第459条:Yes. Black absorbs more heat (energy) than white. White reflects more heat (energy) than black. Therefore the black covered box will heat up faster than the white covered box.***Yes. Yes because black absorbs the heat more than white.||label:correct
+第461条:C. Black absorbs more heat (energy) than white. Pan C has the most dark surface area so C would heat up the fastest and have the highest temperature.***C. Because black absorbs heat and C has more black area so I think it is C.||label:correct
+第462条:C. Black absorbs more heat (energy) than white. Pan C has the most dark surface area so C would heat up the fastest and have the highest temperature.***C. Because it has the most black disks. Black absorbs heat.||label:correct
+第463条:C. Black absorbs more heat (energy) than white. Pan C has the most dark surface area so C would heat up the fastest and have the highest temperature.***C. I picked C because A and B only have one or 2 black plastic disks and that does not take as much heat. Also C has more black so it would be hotter because there is more black.||label:correct
+第464条:C. Black absorbs more heat (energy) than white. Pan C has the most dark surface area so C would heat up the fastest and have the highest temperature.***C. Pan C held the hottest water because pan C has a lot of black in it and black absorbs heat. Pan A and B have barely any black. There is more water showing and I know that since water is a heat sink it takes longer to heat up.||label:correct
+第465条:The cotyledon provides food for the plant to begin growing.***Is the leaf and stem inside the seed.||label:incorrect
+第466条:The cotyledon provides food for the plant to begin growing.***Baby plant.||label:incorrect
+第469条:The embryo contains the tiny leaves and root of the plant.***The sprout that grows into a stem.||label:incorrect
+第471条:The embryo contains the tiny leaves and root of the plant.***Food.||label:incorrect
+第472条:The embryo contains the tiny leaves and root of the plant.***Protects stem and root.||label:incorrect
+第473条:If a part of the plant contains seeds, that part is the fruit.***To see if it have seed.||label:correct
+第474条:If a part of the plant contains seeds, that part is the fruit.***Because it has seeds.||label:correct
+第475条:If a part of the plant contains seeds, that part is the fruit.***If it has seed inside it is a fruit.||label:correct
+第481条:The cotyledon provides food for the plant until the plant can make food for itself.***To give food to the baby plant.||label:correct
+第482条:The cotyledon provides food for the plant until the plant can make food for itself.***It holds food for the plant before the roots grow.||label:correct
+第483条:The cotyledon provides food for the plant until the plant can make food for itself.***Food storage.||label:incorrect
+第484条:The cotyledon provides food for the plant until the plant can make food for itself.***Store food.||label:incorrect
+第485条:The root grows first so the root can take up water for the plant.***Roots sucks in water and makes a seed grow.||label:correct
+第486条:The root grows first so the root can take up water for the plant.***Because it is getting water so the young plant or embryo can have energy to grow.||label:correct
+第488条:The root grows first so the root can take up water for the plant.***The root grew because it needs to help the plant stand up.||label:incorrect
+第489条:The elytra are used to make sounds.***Another function of the elytra is for strangulating.||label:incorrect
+第490条:The elytra are used to make sounds.***Fly around.||label:incorrect
+第491条:The elytra are used to make sounds.***The thorax.||label:incorrect
+第492条:The elytra are used to make sounds.***The beetle can rub its elytra making noises in order to communicate.||label:correct
+第493条:Elena should include a separate shelter for each lizard.***She should make sure they each have their own space.||label:incorrect
+第494条:Elena should include a separate shelter for each lizard.***Shelter, space, food.||label:correct
+第495条:Elena should include a separate shelter for each lizard.***Add another shelter.||label:correct
+第496条:Elena should include a separate shelter for each lizard.***She needs another shelter.||label:correct
+第497条:An experiment is controlled if only one variable is changed at a time.***A controlled experiment is where you change a variable.||label:correct
+第498条:An experiment is controlled if only one variable is changed at a time.***You just work with the experiment and get it over with.||label:incorrect
+第499条:An experiment is controlled if only one variable is changed at a time.***To find the answer.||label:incorrect
+第500条:An experiment is controlled if only one variable is changed at a time.***Only change one variable.||label:correct
+第501条:The shorter the string is, the more the string swings in 15 seconds.  The longer the string is, the less the string swings in 15 seconds.***The longer your string is the less amount of swings you will get.||label:correct
+第504条:The shorter the string is, the more the string swings in 15 seconds.  The longer the string is, the less the string swings in 15 seconds.***If the string is short it has more swings but if it is long it has less swings.||label:correct
+第506条:The boat with 0 marbles is the standard in this experiment.***10.||label:incorrect
+第507条:The boat with 0 marbles is the standard in this experiment.***10 marbles and 5.8 amount the boat sank.||label:incorrect
+第508条:The boat with 0 marbles is the standard in this experiment.***The more Jack put in the lower the boat became under the water.||label:incorrect
+第510条:As time increases, the number of tree rings also increases.***This graph tells you how many tree rings grow on a tree in a certain amount of time.||label:incorrect
+第511条:As time increases, the number of tree rings also increases.***This graph shows that the number of tree rings was increasing by a certain amount of time.||label:correct
+第513条:As time increases, the speed of light stays the same (remains constant).***How fast the light speeds and how many times it goes.||label:incorrect
+第514条:As time increases, the speed of light stays the same (remains constant).***This graph shows that the light was getting lighter and lighter by the minute.||label:incorrect
+第515条:As time increases, the speed of light stays the same (remains constant).***The speed of light does not change over time.||label:correct
+第516条:As time increases, the speed of light stays the same (remains constant).***The light is staying the same and the time is increasing.||label:correct
+第517条:When less than 3 scoops of fertilizer are used, the more fertilizer used, the greater the mass of beans harvested. When more than 3 scoops of fertilizer are used, the more fertilizer used, the less the mass of beans harvested.***The more or less of fertilizer about the same mass it is.||label:incorrect
+第518条:When less than 3 scoops of fertilizer are used, the more fertilizer used, the greater the mass of beans harvested. When more than 3 scoops of fertilizer are used, the more fertilizer used, the less the mass of beans harvested.***The more you scoop you scoop, the higher, but if you get too deep the less you will get.||label:incorrect
+第521条:The more blocks the truck carries, the less distance the truck travels in 10 seconds.***The more blocks the less far it goes the less blocks the farther it goes.||label:correct
+第523条:The more blocks the truck carries, the less distance the truck travels in 10 seconds.***The more blocks he adds the more heavier it gets so the more heavier it is the more slow distance it will go.||label:correct
+第524条:The more blocks the truck carries, the less distance the truck travels in 10 seconds.***The truck goes slower and slower to travel in 10 seconds.||label:incorrect
+第527条:The launch position (line on the playground) is the variable that is controlled.***Their strength.||label:incorrect
+第529条:Different girls are throwing the balls. The girls use different launch techniques. Each girl uses a different type of ball.***What kind of balls and how to throw the balls.||label:incorrect
+第531条:Different girls are throwing the balls. The girls use different launch techniques. Each girl uses a different type of ball.***Who got the running start and who did not and they had different balls to throw.||label:correct
+
+第535条:All variables except the girl need to be held constant (controlled). The girls all need to throw the same ball and use the same launch technique ***They all had to bring the same kind of ball. And same weight.||label:incorrect
+第536条:All variables except the girl need to be held constant (controlled). The girls all need to throw the same ball and use the same launch technique.***Have the ball the same.	incorrect
+第537条:A standard is used for comparison to determine how changing one variable changes the results.***In a controlled experiment.	incorrect
+第538条:A standard is used for comparison to determine how changing one variable changes the results.***You need to have a standard so you can tell the difference of what the experiment was and so you can tell how far it went.	incorrect
+第539条:A standard is used for comparison to determine how changing one variable changes the results.***You use a standard because you know it will be controlled if you do something random it might not work and that is not a controlled experiment.	incorrect
+第540条:A standard is used for comparison to determine how changing one variable changes the results.***So when you start with the standard it will help you understand more of the experiment.	incorrect
