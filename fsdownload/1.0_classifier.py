@@ -172,9 +172,9 @@ class SASProcessor(DataProcessor):
 
     def get_train_examples(self, data_dir):
         """See base class."""
-        logger.info("LOOKING AT {}".format(os.path.join(data_dir, self.n_way, "newtrain.txt")))
+        logger.info("LOOKING AT {}".format(os.path.join(data_dir, self.n_way, "train.txt")))
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, self.n_way, "newtrain.txt")), "train")
+            self._read_tsv(os.path.join(data_dir, self.n_way, "train.txt")), "train")
 
     def get_dev_examples(self, data_dir):
         """See base class."""
@@ -638,13 +638,18 @@ def compute_metrics(task_name, preds, labels):
 
 
 def print_err(preds, labels, both_answers, epoch):
-    print("len preds", len(preds))
-    print("len labels", len(labels))
+    # print("len preds", len(preds))
+    # print("len labels", len(labels))
     with open("/home/gylv/EAAI-25-master/src/model/error.txt", "a+") as w:
         w.write("第%d轮\n：" % epoch)
         for i in range(len(preds)):
             if (preds[i] != labels[i]):
                 w.write("第%d条: %s \n label=%d,pred=%d\n" % (i + 1, both_answers[i], labels[i], preds[i]))
+    with open("/home/gylv/EAAI-25-master/src/model/correct.txt", "a+") as w:
+        w.write("第%d轮：" % epoch)
+        for i in range(len(preds)):
+            if ((preds[i] - labels[i]) == 0):
+                w.write("第%d条: %s||label=%d\n" % (i + 1, both_answers[i],labels[i]))
 
 def load_data(data_features, dataname, batch):
     all_input_ids = torch.tensor([f.input_ids for f in data_features], dtype=torch.long)
@@ -819,6 +824,8 @@ def main():
     # 设置要使用的gpu
     os.environ["CUDA_VISIBLE_DEVICES"] = "0"  # 只看到第2块gpu
     n_gpu = torch.cuda.device_count()
+    if args.local_rank == -1 or args.no_cuda:
+        device = torch.device("cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu")
     logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s -  %(lineno)s -   %(message)s',
                         datefmt='%m/%d/%Y %H:%M:%S',
                         level=logging.INFO if args.local_rank in [-1, 0] else logging.WARN,
@@ -885,7 +892,7 @@ def main():
     if args.fp16:
         model.half()
 
-    model.cuda()
+    model.to(device)
 
     # 分布式训练，多机多卡。并行训练，一机多卡
     if args.local_rank != -1:  # 分布式训练
@@ -1000,7 +1007,7 @@ def main():
 
             pbar = tqdm(train_dataloader, desc="Iteration")  # 一个epoch需要几个iteration，也就是需要几个batch
             for step, batch in enumerate(pbar):
-                batch = tuple(t.cuda() for t in batch)
+                batch = tuple(t.to(device) for t in batch)
                 input_ids, input_mask, segment_ids, label_ids = batch
                 logits = model(input_ids, segment_ids, input_mask, labels=None)
 
@@ -1043,10 +1050,10 @@ def main():
             eval_loss = 0  # 测试数据的损失
             nb_eval_steps = 0  # 测试用例数
             for input_ids, input_mask, segment_ids, label_ids in tqdm(eval_dataloader, desc="testing"):
-                input_ids = input_ids.cuda()
-                input_mask = input_mask.cuda()
-                segment_ids = segment_ids.cuda()
-                label_ids = label_ids.cuda()
+                input_ids = input_ids.to(device)
+                input_mask = input_mask.to(device)
+                segment_ids = segment_ids.to(device)
+                label_ids = label_ids.to(device)
 
                 with torch.no_grad():
                     logits = model(input_ids, segment_ids, input_mask, labels=None)
@@ -1073,7 +1080,7 @@ def main():
             elif output_mode == "regression":
                 preds = np.squeeze(preds)
             test_result = compute_metrics(task_name, preds, test_label_ids.numpy())
-            # print_err(preds, test_label_ids.numpy(), test_both_answers, epoch)
+            print_err(preds, test_label_ids.numpy(), test_both_answers, epoch)
 
             preds = []  # 本epoch清空预测值
 
@@ -1082,10 +1089,10 @@ def main():
             valid_loss = 0  # 损失
             nb_valid_steps = 0  # 例数
             for input_ids, input_mask, segment_ids, label_ids in tqdm(valid_dataloader, desc="validating"):
-                input_ids = input_ids.cuda()
-                input_mask = input_mask.cuda()
-                segment_ids = segment_ids.cuda()
-                label_ids = label_ids.cuda()
+                input_ids = input_ids.to(device)
+                input_mask = input_mask.to(device)
+                segment_ids = segment_ids.to(device)
+                label_ids = label_ids.to(device)
 
                 with torch.no_grad():
                     logits = model(input_ids, segment_ids, input_mask, labels=None)
