@@ -161,7 +161,7 @@ class SASProcessor(DataProcessor):
         self.eval_file = eval_filename
 
         if n == 2:
-            labels = ["incorrect", "correct"]
+            labels = ["inet", "correct"]
         elif n == 3:
             labels = ["incorrect", "correct", "contradictory"]
         elif n == 5:
@@ -489,7 +489,7 @@ def convert_examples_to_features(examples, label_list, max_seq_length,
     for (ex_index, example) in enumerate(examples):
         if ex_index % 10000 == 0:
             logger.info("Writing example %d of %d" % (ex_index, len(examples)))
-        textab = example.text_b
+        textab = example.text_a+"\n"+example.text_b
         tokens_a = tokenizer.tokenize(example.text_a)
         tokens_b = None
         if example.text_b:
@@ -637,19 +637,19 @@ def compute_metrics(task_name, preds, labels):
         raise KeyError(task_name)
 
 
-def print_err(preds, labels, both_answers, epoch):
+def print_err(preds, labels, both_answers, epoch=0):
     # print("len preds", len(preds))
     # print("len labels", len(labels))
     with open("/home/gylv/EAAI-25-master/src/model/error.txt", "a+") as w:
         w.write("第%d轮\n：" % epoch)
         for i in range(len(preds)):
             if (preds[i] != labels[i]):
-                w.write("第%d条: %s \n label=%d,pred=%d\n" % (i + 1, both_answers[i], labels[i], preds[i]))
+                w.write("第%d条:\n %s \n label=%d,pred=%d\n" % (i + 1, both_answers[i], labels[i], preds[i]))
     with open("/home/gylv/EAAI-25-master/src/model/correct.txt", "a+") as w:
         w.write("第%d轮：" % epoch)
         for i in range(len(preds)):
             if ((preds[i] - labels[i]) == 0):
-                w.write("第%d条: %s||label=%d\n" % (i + 1, both_answers[i],labels[i]))
+                w.write("第%d条:\n %s \n label=%d\n" % (i + 1, both_answers[i],labels[i]))
 
 def load_data(data_features, dataname, batch):
     all_input_ids = torch.tensor([f.input_ids for f in data_features], dtype=torch.long)
@@ -913,34 +913,83 @@ def main():
         {'params': [p for n, p in param_optimizer if not any(nd in n for nd in no_decay)], 'weight_decay': 0.01},
         {'params': [p for n, p in param_optimizer if any(nd in n for nd in no_decay)], 'weight_decay': 0.0}
     ]
-    if args.fp16:
-        try:
-            from apex.optimizers import FP16_Optimizer
-            from apex.optimizers import FusedAdam
-        except ImportError:
-            raise ImportError(
-                "Please install apex from https://www.github.com/nvidia/apex to use distributed and fp16 training.")
-
-        optimizer = FusedAdam(optimizer_grouped_parameters,
-                              lr=args.learning_rate,
-                              bias_correction=False,
-                              max_grad_norm=1.0)
-        if args.loss_scale == 0:
-            optimizer = FP16_Optimizer(optimizer, dynamic_loss_scale=True)
-        else:
-            optimizer = FP16_Optimizer(optimizer, static_loss_scale=args.loss_scale)
-        warmup_linear = optimization.WarmupLinearSchedule(warmup=args.warmup_proportion,
-                                                          t_total=num_train_optimization_steps)
-
-    else:
-        optimizer = optimization.BertAdam(optimizer_grouped_parameters,
-                                          lr=args.learning_rate,
-                                          warmup=args.warmup_proportion,
-                                          t_total=num_train_optimization_steps)
-
-
-
     if args.do_train:
+        if args.fp16:
+            try:
+                from apex.optimizers import FP16_Optimizer
+                from apex.optimizers import FusedAdam
+            except ImportError:
+                raise ImportError(
+                    "Please install apex from https://www.github.com/nvidia/apex to use distributed and fp16 training.")
+
+            optimizer = FusedAdam(optimizer_grouped_parameters,
+                                  lr=args.learning_rate,
+                                  bias_correction=False,
+                                  max_grad_norm=1.0)
+            if args.loss_scale == 0:
+                optimizer = FP16_Optimizer(optimizer, dynamic_loss_scale=True)
+            else:
+                optimizer = FP16_Optimizer(optimizer, static_loss_scale=args.loss_scale)
+            warmup_linear = optimization.WarmupLinearSchedule(warmup=args.warmup_proportion,
+                                                              t_total=num_train_optimization_steps)
+
+        else:
+            optimizer = optimization.BertAdam(optimizer_grouped_parameters,
+                                              lr=args.learning_rate,
+                                              warmup=args.warmup_proportion,
+                                              t_total=num_train_optimization_steps)
+        #只做测试，不做微调
+    if args.do_eval:
+        logger.info("***** load evaluation data *****")
+        eval_examples = processor.get_dev_examples(args.test_data_dir)
+
+        logger.info("  Num examples = %d", len(eval_examples))
+        logger.info("  Batch size = %d", args.eval_batch_size)
+
+        eval_features, test_both_answers = convert_examples_to_features(
+            eval_examples, label_list, args.max_seq_length, tokenizer, output_mode)
+
+        eval_dataloader, test_label_ids = load_data(eval_features, "test", args.eval_batch_size)
+
+        model.eval()
+        preds = []
+        eval_loss = 0  # 测试数据的损失
+        nb_eval_steps = 0  # 测试用例数
+        for input_ids, input_mask, segment_ids, label_ids in tqdm(eval_dataloader, desc="testing"):
+            input_ids = input_ids.to(device)
+            input_mask = input_mask.to(device)
+            segment_ids = segment_ids.to(device)
+            label_ids = label_ids.to(device)
+
+            with torch.no_grad():
+                logits = model(input_ids, segment_ids, input_mask, labels=None)
+
+            if output_mode == "classification":
+                loss_fct = CrossEntropyLoss()
+                tmp_eval_loss = loss_fct(logits.view(-1, num_labels), label_ids.view(-1))
+            elif output_mode == "regression":
+                loss_fct = MSELoss()
+                tmp_eval_loss = loss_fct(logits.view(-1), label_ids.view(-1))
+
+            eval_loss += tmp_eval_loss.mean().item()
+            nb_eval_steps += 1
+            if len(preds) == 0:
+                preds.append(logits.detach().cpu().numpy())
+            else:
+                preds[0] = np.append(
+                    preds[0], logits.detach().cpu().numpy(), axis=0)
+        # loss_test.append(eval_loss / nb_eval_steps)
+        preds = preds[0]
+        if output_mode == "classification":
+            preds = np.argmax(preds, axis=1)
+        elif output_mode == "regression":
+            preds = np.squeeze(preds)
+        test_result = compute_metrics(task_name, preds, test_label_ids.numpy())
+        print_err(preds, test_label_ids.numpy(), test_both_answers,5)
+        print(test_result)
+
+    #做微调又做测试
+    if args.do_train and args.do_eval and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
         # 加载traindata
         logger.info("***** Running training *****")
         logger.info("  Num examples = %d", len(train_examples))
@@ -952,9 +1001,7 @@ def main():
 
         train_dataloader, _ = load_data(train_features, "train", args.train_batch_size)
 
-        # 加载testdata
-    if args.do_eval and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
-        logger.info("***** Running evaluation *****")
+        logger.info("***** load evaluation data *****")
 
         eval_examples = processor.get_dev_examples(args.test_data_dir)
 
@@ -966,9 +1013,7 @@ def main():
 
         eval_dataloader, test_label_ids = load_data(eval_features, "test", args.eval_batch_size)
 
-    # 加载验证集
-    if args.do_eval and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
-        logger.info("***** Running validation *****")
+        logger.info("***** load validation data *****")
         valid_examples = processor.get_valid_examples(args.valid_data_dir)
 
         logger.info("  Num examples = %d", len(valid_examples))
